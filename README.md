@@ -5,16 +5,6 @@ The script covers navigation through product categories, selecting a men’s T-s
 
 ---
 
-## Tech Stack
-
-* **WebdriverIO**
-* **Node.js**
-* **Mocha**
-* **Page Object Model (POM)** structure
-* **JavaScript**
-
----
-
 ## Project Structure
 
 ```
