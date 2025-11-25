@@ -76,7 +76,7 @@ npm i
 2. Run the test suite:
 
 ```
-npm test
+npm run wdio
 ```
 
 Make sure your WebdriverIO configuration is set up correctly (e.g., wdio.conf.js).
